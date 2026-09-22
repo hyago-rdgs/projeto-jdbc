@@ -1,0 +1,4 @@
+user=[username]
+password=[password]
+dburl=jdbc:[driver]://[url]:3306/[database]
+useSSL=[true or false]
